@@ -10,7 +10,7 @@ meu nome e ian
 
 - Estou me desenvolvendo em javascript
 
-- 
+- Utilizo esse espaço para compartilhar meus projetos
 
 
 ![image](https://github.com/Bloxyian/ianzeira/assets/103868080/3699d33d-ea28-47ed-b40c-f3e0d2add6e6)
