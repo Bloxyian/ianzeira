@@ -8,6 +8,8 @@ meu nome e ian
 
 - ianlima1050@gmail.com
 
+- Estou me desenvolvendo em javascript
+
 - 
 
 
