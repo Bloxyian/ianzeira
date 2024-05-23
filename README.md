@@ -2,4 +2,5 @@
 
 meu nome e ian 
 
-- Estou estudando na porcaria do alura
+- Estou estudando na porcaria do [Alura](Alura.com)
+- 
